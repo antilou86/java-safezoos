@@ -59,10 +59,7 @@ public class Zoo
         this.telephones = telephones;
     }
 
-    public List<Animal> getAnimals()
-    {
-        return animals;
-    }
+    public List<Animal> getAnimals() { return animals; }
 
     public void setAnimals(List<Animal> animals)
     {
